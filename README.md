@@ -1,4 +1,4 @@
-## Activitat MP3-UF5-A2 Execeptions
+## Activitat MP3-UF5-Ex53 Execeptions
 
 1. Crear els següents tipus d'Exceptions
    1. Crear la classe(Exception) BankAccountException per gestionar les exceptions relacionades amb operacions bancàries.
